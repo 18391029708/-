@@ -4,7 +4,7 @@
   },
     ReqData(){
       wx.showLoading({
-        title:'加载中...',
+        title:'...',
       })
       var that = this;
       console.log(that.data)
