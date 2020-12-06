@@ -4,7 +4,7 @@
   },
     ReqData(){
       wx.showLoading({
-        title:'...',
+        title:'1111222...',
       })
       var that = this;
       console.log(that.data)
